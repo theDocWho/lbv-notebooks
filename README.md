@@ -13,8 +13,11 @@ Everything runs on free tiers: **Google Colab**, **Kaggle**, or local Jupyter (P
 | [ai-ml/01-numpy-pandas.ipynb](ai-ml/01-numpy-pandas.ipynb) | 1 · Scientific stack | vectorization, broadcasting, groupby, merge |
 | [ai-ml/02-math-optimization.ipynb](ai-ml/02-math-optimization.ipynb) | 2 · Math | dot product, transformations, eigenvectors, optimizer race |
 | [ai-ml/03-classic-ml.ipynb](ai-ml/03-classic-ml.ipynb) | 3 · Classic ML | metrics, cross-validation, k-means, bias–variance |
-
-More phases (deep learning, transformers, LLM/RAG, MLOps) land as the explainer tracks grow.
+| [ai-ml/04-deep-learning.ipynb](ai-ml/04-deep-learning.ipynb) | 4 · Deep learning | activations & slopes, backprop by hand, XOR MLP from scratch (pure NumPy) |
+| [ai-ml/05-nlp-transformers.ipynb](ai-ml/05-nlp-transformers.ipynb) | 5 · NLP & Transformers | TF-IDF by hand, cosine ranking, scaled dot-product attention |
+| [ai-ml/06-llm-rag-agents.ipynb](ai-ml/06-llm-rag-agents.ipynb) | 6 · RAG & agents | chunking, retriever, grounded prompts, a ReAct loop (no API key) |
+| [ai-ml/06b-llm-internals.ipynb](ai-ml/06b-llm-internals.ipynb) | 6B · LLM internals | BPE from scratch, temperature, top-k sampling |
+| [ai-ml/07-mlops-drift.ipynb](ai-ml/07-mlops-drift.ipynb) | 7 · MLOps | baseline metrics, covariate drift, PSI monitor |
 
 ## Conventions
 
